@@ -139,7 +139,7 @@ password: demo123
 
 # Security Vulnerabilities
 
-If you discover a security vulnerability within SMS, please send an e-mail to H.R. Shadhin via [dev@hrshadhin.me](mailto:dev@hrshadhin.me). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within SMS, please send an e-mail via [melquilegend@gmail.com](mailto:melquilegend@gmail.com). All security vulnerabilities will be promptly addressed.
 
 # License
 
